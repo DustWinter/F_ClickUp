@@ -31,5 +31,5 @@ This guide shows how to install this extension as an **unpacked addon** in both 
 
 ## Donations :D
 <a href="https://paypal.me/winterdust" target="_blank">
-  <img src="https://i.imgur.com/jUe7C0a.png" />
+  <img src="https://i.imgur.com/O8aiu9g.png" />
 </a>
