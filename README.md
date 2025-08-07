@@ -30,6 +30,6 @@ This guide shows how to install this extension as an **unpacked addon** in both 
 5. The addon will be temporarily installed (until Firefox restarts).
 
 ## Donations :D
-<a href="paypal.me/winterdust" target="_blank">
+<a href="https://paypal.me/winterdust" target="_blank">
   <img src="https://imgur.com/a/4wSjYSM" />
 </a>
