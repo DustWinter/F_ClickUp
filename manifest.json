@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "F clickUp",
+  "version": "1.0",
+  "description": "why tf they monetized that??",
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "matches": ["https://app.clickup.com/*"],
+      "css": ["oki.css"],
+      "run_at": "document_end"
+    }
+  ],
+  "host_permissions": ["https://app.clickup.com/"],
+  "action": {
+    "default_title": "F clickUp"
+  }
+}
