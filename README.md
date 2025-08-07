@@ -29,3 +29,5 @@ This guide shows how to install this extension as an **unpacked addon** in both 
 4. Select the `manifest.json` file from your extension folder.
 5. The addon will be temporarily installed (until Firefox restarts).
 
+## Donations :D
+paypal.me/winterdust
